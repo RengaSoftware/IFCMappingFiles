@@ -1,0 +1,110 @@
+{
+  "name": "Layer mapping", 
+  "type": "export",
+  "version": "4",
+  "layer": {
+    "A-M-Wall": [
+      "IfcWall"
+    ],
+    "A-M-Column": [
+      "IfcColumn"
+    ],
+    "A-M-Beam": [
+      "IfcBeam"
+    ],
+    "A-M-Slab": [
+      "IfcSlab"
+    ],
+    "A-M-Roof": [
+      "IfcRoof"
+    ],
+    "A-M-Stair": [
+      "IfcStairFlight"
+    ],
+    "A-M-Ramp": [
+      "IfcRampFlight"
+    ],
+    "A-M-Railing": [
+      "IfcRailing"
+    ],
+    "S-M-Foundation": [
+      "IfcFooting"
+    ],
+    "A-M-Door": [
+      "IfcDoor"
+    ],
+    "A-M-Window": [
+      "IfcWindow"
+    ],
+    "S-M-Plate": [
+      "IfcPlate"
+    ],
+    "A-M-Space": [
+      "IfcSpace"
+    ],
+    "A-M-Opening": [
+      "IfcOpeningElement"
+    ],
+    "S-M-Assembly": [
+      "IfcElementAssembly"
+    ],
+    "A-M-BuildingElement": [
+      "IfcBuildingElementProxy"
+    ],
+    "SR-M-Rebar": [
+      "IfcReinforcingBar"
+    ],
+    "PS-M-PlumbingFixture": [
+      "IfcSanitaryTerminal",
+      "IfcWasteTerminal.FLOORWASTE",
+      "IfcWasteTerminal.ROOFDRAIN"
+    ],
+    "PW-M-Equipment": [
+      "IfcTank",
+      "IfcBoiler",
+      "IfcPump",
+      "IfcValve.FAUCET",
+      "IfcElectricAppliance.WASHINGMACHINE"
+    ],
+    "MH-M-Equipment": [
+      "IfcSpaceHeater"
+    ],
+    "PW-M-Pipework": [
+      "IfcValve",
+      "IfcFlowMeter",
+      "IfcFilter.STRAINER",
+      "IfcFlowInstrument",
+      "IfcPipeFitting",
+      "IfcPipeSegment"
+    ],
+    "MV-M-Equipment": [
+      "IfcFan.CENTRIFUGALRADIAL",
+      "IfcUnitaryEquipment",
+      "IfcAirTerminal"
+    ],
+    "MV-M-Ductwork": [
+      "IfcFilter.AIRPARTICLEFILTER",
+      "IfcDuctSilencer",
+      "IfcDamper",
+      "IfcFan",
+      "IfcCoil",
+      "IfcDuctFitting",
+      "IfcDuctSegment"
+    ],
+    "EL-M-Lighting": [
+      "IfcLightFixture"
+    ],
+    "E-M-Equipment": [
+      "IfcSwitchingDevice",
+      "IfcJunctionBox",
+      "IfcOutlet",
+      "IfcElectricDistributionBoard"
+    ],
+    "E-M-Electric": [
+      "IfcCableSegment"
+    ],
+	"S-M-BuildersWorkHole": [
+	  "IfcVoidingFeature"
+	]
+  }
+}
