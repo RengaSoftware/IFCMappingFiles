@@ -84,7 +84,8 @@
     "{00799249-1824-4ebd-bf93-40bb92efa9e6}"
   ],
   "IfcBuildingElementProxy": [
-    "{e1e3bd66-2e13-4fa4-a9eb-677e03067c2f}"
+    "{e1e3bd66-2e13-4fa4-a9eb-677e03067c2f}",
+    "{67a0b42c-8c1e-47e8-b46e-78d8bb260de0}"
   ],
   "IfcBuildingElementProxyType.NOTDEFINED": [
     "{514a3ae7-f551-4d0f-b5ba-5d4f0ecf4e7a}"
@@ -670,7 +671,7 @@
     "{96da9155-43c1-42b8-bba2-b4f61fa43acc}.{f79463cf-d720-4ca3-a618-afd50410f9ef}",
     "{96da9155-43c1-42b8-bba2-b4f61fa43acc}.{2fea1683-d78d-41b4-a3f5-82d931e3c482}",
     "{96da9155-43c1-42b8-bba2-b4f61fa43acc}.{2fea174b-d78d-41b4-a3f5-82d931e3c482}"
-],
+  ],
   "IfcElectricDistributionBoardType.CONSUMERUNIT": [
     "{861c0037-7797-43a9-96e7-833a7a2c6ea4}.{5245bd39-b872-493f-8aa9-93cb4b37f5aa}",
     "{861c0037-7797-43a9-96e7-833a7a2c6ea4}.{5245be01-b872-493f-8aa9-93cb4b37f5aa}"
@@ -751,5 +752,8 @@
     "{e65c5fad-d4d3-4f43-bd01-b28d0eb95571}.{1ee4b2e9-6176-4063-888a-e1066956df92}",
     "{e65c5fad-d4d3-4f43-bd01-b28d0eb95571}.{708e1a09-58f4-47f9-9717-da2dee5f0e51}",
     "{e65c5fad-d4d3-4f43-bd01-b28d0eb95571}.{4a3350ce-d47a-43c4-a4a5-a885f709852a}"
+  ],
+  "IfcCovering.INSULATION": [
+    "{517a337a-58d5-46ff-81b8-65cf0389a191}"
   ]
 }

@@ -986,5 +986,10 @@
         "Reference": "{ff2e904e-04e4-4f6e-b5d4-a6fa7a7d2cda}"
       }
     }
+  },
+  "IfcCovering": {
+    "attributes": {
+      "Name": "{7b57355d-ed38-4ad3-91db-ab538a9c1d98}"
+    }
   }
 }

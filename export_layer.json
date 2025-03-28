@@ -105,6 +105,9 @@
     ],
 	"S-M-BuildersWorkHole": [
 	  "IfcVoidingFeature"
-	]
+	],
+	"PW-H-Insulation": [
+      "IfcCovering"
+    ]
   }
 }
