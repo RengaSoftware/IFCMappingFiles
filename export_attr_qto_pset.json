@@ -991,5 +991,10 @@
     "attributes": {
       "Name": "{7b57355d-ed38-4ad3-91db-ab538a9c1d98}"
     }
+  },
+  "IfcGroup": {
+    "attributes": {
+      "Name": "{7b57355d-ed38-4ad3-91db-ab538a9c1d98}"
+    }
   }
 }
